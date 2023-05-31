@@ -1,8 +1,37 @@
-PSET-1
-Banco de Dados - I [PSET 1] Aluno: Paulo Guilherme Goldner M Matrícula: 202307671 Monitora: Professor: Abrantes Araujo Silva Filho Sobre o PSET 1 : Este PSET (problem set) é um trabalho desafiador elaborado pelo professor Abrantes Araújo Silva Filho da Universidade Vila Velha (UVV) na disciplina banco de dados 1. O PSET é uma serie de problemas e questões complexas e avançadas sobre a disciplina. Foram necessárias muitas horas de dedicação e estudos para concluir este desafio, muitas pesquisas, erros e tentativas para fazer o projeto funcionar, enfim.
+# PSET-1 - Banco de Dados I
 
-Este diretório tem a função de conter os arquivos do PSET 1, contendo o arquivo SQL, o projeto do SQLpowerarchitet tanto o código SQL quanto PDF contendo o projeto lógico Trabalho feito com base no PDF e na Imagem passada anteriormente.
+**Aluno:** Paulo Guilherme Goldner M  
+**Matrícula:** 202307671  
+**Monitora:**  
+**Professor:** Abrantes Araujo Silva Filho
 
-Programas utilizados : Oracle VM VirtualBox (dbserver2) Terminal Linux DBeaver Microsoft Visual Studio(utilizado para formatação do codigo SQL) SQL Power Architect PosgresSQL Comand Line
+## Sobre o PSET 1
 
-Considerações finais: Depois de semanas em desenvolvimento entrego hoje (Dia 31 de maio) o primeiro PSET; que arrisco dizer que foi o trabalho mais desafiador que ja fiz na minha vida acadêmica, porém o mais satisfatório de completar, quando o trabalho foi entregue eu não imaginava que iria conseguir concluir mas com horas de dedicação e estudo apesar de certos imprevistos consegui concluir o trabalho que me ensinou coisas alem da matéria como manter a paciencia e confiar no progresso 
+Este PSET (Problem Set) é um trabalho desafiador elaborado pelo professor Abrantes Araújo Silva Filho da Universidade Vila Velha (UVV) na disciplina de Banco de Dados 1. O PSET consiste em uma série de problemas e questões complexas e avançadas sobre a disciplina. Foram necessárias muitas horas de dedicação e estudos para concluir este desafio, incluindo pesquisas, erros e tentativas para fazer o projeto funcionar.
+
+## Conteúdo do diretório
+
+Este diretório contém os seguintes arquivos do PSET 1:
+
+- Arquivo SQL
+- Projeto do SQL Power Architect (incluindo o código SQL)
+- PDF contendo o projeto lógico
+
+O trabalho foi feito com base no PDF e na imagem fornecidos anteriormente.
+
+## Programas utilizados
+
+Os seguintes programas foram utilizados para realizar o PSET 1:
+
+- Oracle VM VirtualBox (dbserver2)
+- Terminal Linux
+- DBeaver
+- Microsoft Visual Studio (utilizado para formatação do código SQL)
+- SQL Power Architect
+- PostgreSQL Command Line
+
+## Considerações finais
+
+Depois de semanas de desenvolvimento, entrego hoje (31 de maio) o primeiro PSET. Arrisco dizer que foi o trabalho mais desafiador que já fiz em minha vida acadêmica, porém, o mais satisfatório de completar. Quando entreguei o trabalho, não imaginava que conseguiria concluí-lo, mas com horas de dedicação e estudo, apesar de certos imprevistos, consegui terminar o trabalho. Ele me ensinou coisas além da matéria, como manter a paciência e confiar no progresso.
+
+Espero que essa formatação atenda às suas necessidades! Se você tiver mais alguma dúvida ou precisar de mais ajuda, fique à vontade para perguntar.
